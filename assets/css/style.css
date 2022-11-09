@@ -10,19 +10,19 @@ h1 {
 }
 
 .navbar {
-    height: 150px;
+    height: 150px!important;
 }
 
 #cityDetail,
 #uvIndexColor,
 li {
-    color: #4D4F53;
+    color: #4D4F53!important;
 }
 
 #searchResults,
 #cityDetail,
 .card {
-    background-color: #5A6C73;
+    background-color: #5A6C73!important;
 }
 
 #searchResults {
@@ -30,12 +30,12 @@ li {
 }
 
 #fiveDay .card {
-    border: 1px solid white;
+    border: 1px solid white!important;
 }
 
 #searchHistory li {
     background-color: #97A6A4;
-    color: #f8f8ff;
+    color: #f8f8ff!important;
 }
 
 p {
