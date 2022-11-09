@@ -46,6 +46,10 @@ Enter City
 Current weather conditions appear
 <img width="1306" alt="Screen Shot 2022-11-09 at 3 35 29 AM" src="https://user-images.githubusercontent.com/114618684/200794564-5bfba7bd-d29b-487e-8952-47101f77581f.png">
 
+Searched Cities are saved 
+<img width="1026" alt="Screen Shot 2022-11-09 at 3 43 20 AM" src="https://user-images.githubusercontent.com/114618684/200796300-6b60313a-03d7-4658-b833-49e304d2e2aa.png">
+
+
 
 
 ## Credits
